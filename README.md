@@ -1,7 +1,7 @@
 # Exp - 5 - Bubble Sort and Merge sort in CUDA 
 <h3>NAME: PRIYANKA A</h3>
 <h3>REG NO: 212222230113</h3>
-<h3>DATE: 07-11-2025</h3>
+<h3>DATE: 23-10-2025</h3>
 
 ## AIM:
 To Implement Bubble Sort and Merge Sort on the GPU using CUDA to enhance the performance of sorting tasks by parallelizing comparisons and swaps within the sorting algorithm.
